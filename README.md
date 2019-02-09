@@ -34,7 +34,7 @@ You, being very cautious, decide to simulate the topology on Cisco Packet Tracer
 * Although you have to use GUI of the router to configure its interfaces but you must use CLI of the router to configure the RIPv2 Protocol for Classless Subnet Addressing.
 
 ## How to run
-Install Cisco Packet Tracer and then simply open the main network.pkt(../master/network.pkt). The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.
+Install Cisco Packet Tracer and then simply open the [network.pkt](../master/network.pkt). The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.
 
 ## Contact
 You can get in touch with me on my LinkedIn Profile: [Farhan Shoukat](https://www.linkedin.com/in/farhan-shoukat/)
